@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-color: #efe6d7;
+}
+p {
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(78, 125, 218);
+}
+
+.button {
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(30, 74, 161);
+  border-radius: 10px;
+  font-weight: bold;
+  width: 70px;
+  text-decoration: none;
+  color: #efe6d7;
+  margin: 5px;
+}
+
+.center {
+  text-align: center;
+
+}
+
+.pictureLeft {
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px;
+  float: left;
+}
+
+.textBox {
+  align-items: center;
+  margin: 40px 0;
+  text-align: left;
+}
+
+.caption {
+  font-size: 10px;
+}
+
